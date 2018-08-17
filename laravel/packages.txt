@@ -1,0 +1,27 @@
+ii  php                                    1:7.0+35ubuntu6.1                            all          server-side, HTML-embedded scripting language (default)
+ii  php-cli                                1:7.0+35ubuntu6.1                            all          command-line interpreter for the PHP scripting language (default)
+ii  php-cli-prompt                         1.0.1+dfsg-1build1                           all          tiny helper prompting for user input
+ii  php-common                             1:35ubuntu6.1                                all          Common files for PHP packages
+ii  php-composer-semver                    1.2.0-1build1                                all          Semver library that offers utilities, version constraint parsing and
+ii  php-composer-spdx-licenses             1.1.2-1build1                                all          SPDX licenses list and validation library
+ii  php-curl                               1:7.0+35ubuntu6.1                            all          CURL module for PHP [default]
+ii  php-gd                                 1:7.0+35ubuntu6.1                            all          GD module for PHP [default]
+ii  php-json-schema                        1.6.1-1build1                                all          implementation of JSON schema
+ii  php-mbstring                           1:7.0+35ubuntu6.1                            all          MBSTRING module for PHP [default]
+ii  php-mysql                              1:7.0+35ubuntu6.1                            all          MySQL module for PHP [default]
+ii  php-symfony-console                    2.7.10-0ubuntu2                              all          run tasks from the command line
+ii  php-symfony-filesystem                 2.7.10-0ubuntu2                              all          basic filesystem utilities
+ii  php-symfony-finder                     2.7.10-0ubuntu2                              all          find files and directories
+ii  php-symfony-process                    2.7.10-0ubuntu2                              all          execute commands in sub-processes
+ii  php7.0                                 7.0.30-0ubuntu0.16.04.1                      all          server-side, HTML-embedded scripting language (metapackage)
+ii  php7.0-cli                             7.0.30-0ubuntu0.16.04.1                      armhf        command-line interpreter for the PHP scripting language
+ii  php7.0-common                          7.0.30-0ubuntu0.16.04.1                      armhf        documentation, examples and common module for PHP
+ii  php7.0-curl                            7.0.30-0ubuntu0.16.04.1                      armhf        CURL module for PHP
+ii  php7.0-fpm                             7.0.30-0ubuntu0.16.04.1                      armhf        server-side, HTML-embedded scripting language (FPM-CGI binary)
+ii  php7.0-gd                              7.0.30-0ubuntu0.16.04.1                      armhf        GD module for PHP
+ii  php7.0-json                            7.0.30-0ubuntu0.16.04.1                      armhf        JSON module for PHP
+ii  php7.0-mbstring                        7.0.30-0ubuntu0.16.04.1                      armhf        MBSTRING module for PHP
+ii  php7.0-mysql                           7.0.30-0ubuntu0.16.04.1                      armhf        MySQL module for PHP
+ii  php7.0-opcache                         7.0.30-0ubuntu0.16.04.1                      armhf        Zend OpCache module for PHP
+ii  php7.0-readline                        7.0.30-0ubuntu0.16.04.1                      armhf        readline module for PHP
+ii  php7.0-xml                             7.0.30-0ubuntu0.16.04.1                      armhf        DOM, SimpleXML, WDDX, XML, and XSL module for PHP
