@@ -15,7 +15,7 @@ class AddRoles extends Migration
     {
       Schema::create('roles', function (Blueprint $table) {
           $table->increments('id');
-          $table->enum('name',['adm','usr'])->default('usr')->unique();
+          $table->enum('name',['adm','usr'])->unique();
           $table->string('description');
           $table->timestamps();
       });

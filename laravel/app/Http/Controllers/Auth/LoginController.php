@@ -39,12 +39,21 @@ class LoginController extends Controller
     {
         //$this->middleware('guest')->except('logout');
     }
+
+
+
+    public function username()
+    {
+        return 'username';
+    }
+
     public function view()
     {
+
         return view('auth.login');
     }
 
-    public function login(Request $requets){
+    /*public function login(Request $requets){
      if(!(empty($requets->username) && empty($requets->password))){
 
        //Busco el usuario
@@ -52,7 +61,9 @@ class LoginController extends Controller
        //Compruebo si existe
        if(!empty($username)){
          //verifico el password
-         if($username->password == md5($requets->password)){
+           $passwordTMP = bcrypt($requets->password);
+           dd(var_dump($requets->get('password')));
+         if($username->password == bcrypt($requets->password)){
            auth()->login($username);
           if($username->isRol('adm')){
              //Es un administrador
@@ -74,5 +85,5 @@ class LoginController extends Controller
        return redirect()->route('login');
      }
 
-    }
+    }*/
 }

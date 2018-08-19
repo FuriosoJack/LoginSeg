@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d14f56b-a88f-422d-b4c3-bad27682bf67" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/laravel/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel/database/migrations/2017_05_05_172803_add_roles.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/database/migrations/2017_05_05_172803_add_roles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/database/seeds/DatabaseSeeder.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/laravel/composer.json</pharConfigPath>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="451165303">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="php" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PHP" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="501" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="501" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel/app/Http/Controllers/Auth/LoginController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel/app/Http/Controllers/Administracion.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/laravel/app/Http/Controllers/Auth/RegisterController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="72" column="25" lean-forward="true" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel/app/Http/Controllers/HomeController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel/app/Http/Middleware/isUserNormal.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ThrottlesLogins.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel/vendor/laravel/framework/src/Illuminate/Contracts/Auth/StatefulGuard.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="6" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="8" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2017_05_05_172803_add_roles.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="202" column="13" selection-start-line="202" selection-start-column="13" selection-end-line="202" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>guard</find>
+      <find>gua</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/laravel/database/seeds/RolesUsers.php" />
+        <option value="$PROJECT_DIR$/laravel/database/seeds/UserAdmin.php" />
+        <option value="$PROJECT_DIR$/laravel/database/migrations/2017_05_05_172803_add_roles.php" />
+        <option value="$PROJECT_DIR$/laravel/database/seeds/DatabaseSeeder.php" />
+        <option value="$PROJECT_DIR$/laravel/app/Http/Controllers/Auth/LoginController.php" />
+        <option value="$PROJECT_DIR$/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" />
+        <option value="$PROJECT_DIR$/laravel/app/Http/Controllers/Auth/RegisterController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/laravel/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/laravel/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/laravel/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/laravel/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/laravel/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/laravel/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/laravel/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/laravel/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/laravel/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/laravel/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/laravel/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/laravel/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/laravel/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/laravel/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/laravel/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/laravel/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/laravel/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/laravel/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/laravel/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/laravel/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/laravel/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/laravel/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/laravel/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/laravel/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/laravel/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/laravel/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/laravel/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/laravel/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/laravel/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/laravel/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/laravel/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/laravel/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/laravel/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/laravel/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/laravel/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/laravel/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/laravel/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/laravel/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/laravel/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/laravel/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/laravel/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/laravel/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/laravel/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/laravel/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/laravel/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/laravel/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/laravel/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/laravel/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/laravel/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/laravel/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/laravel/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/laravel/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/laravel/vendor/simplesoftwareio/simple-qrcode" />
+      <path value="$PROJECT_DIR$/laravel/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/laravel/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/laravel/vendor/composer" />
+      <path value="$PROJECT_DIR$/laravel/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/laravel/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/laravel/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/laravel/vendor/phar-io/manifest" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="77" />
+    <option name="y" value="145" />
+    <option name="width" value="1717" />
+    <option name="height" value="930" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LoginSeg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LoginSeg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LoginSeg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LoginSeg" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LoginSeg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LoginSeg" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LoginSeg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LoginSeg" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LoginSeg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LoginSeg" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LoginSeg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LoginSeg" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="Auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LoginSeg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LoginSeg" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Middleware" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LoginSeg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LoginSeg" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LoginSeg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LoginSeg" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LoginSeg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LoginSeg" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LoginSeg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LoginSeg" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="seeds" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LoginSeg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LoginSeg" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d14f56b-a88f-422d-b4c3-bad27682bf67" name="Default Changelist" comment="" />
+      <created>1534690459128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534690459128</updated>
+      <workItem from="1534690461593" duration="2356000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2356000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="34" width="1920" height="993" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/laravel/database/seeds/DatabaseSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/database/seeds/RolesUsers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/database/seeds/UserAdmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="105" selection-start-line="14" selection-start-column="100" selection-end-line="14" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/app/Http/Middleware/isAdmin.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/config/auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-594" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="202" column="13" selection-start-line="202" selection-start-column="13" selection-end-line="202" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/database/migrations/2017_05_05_172803_add_roles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-492" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/vendor/laravel/framework/src/Illuminate/Routing/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/vendor/laravel/framework/src/Illuminate/Contracts/Auth/StatefulGuard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="642">
+          <caret line="50" column="32" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ThrottlesLogins.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/app/Http/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/app/Http/Middleware/isUserNormal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/app/Http/Controllers/Auth/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/app/Http/Controllers/Administracion.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/app/Http/Controllers/Auth/RegisterController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="72" column="25" lean-forward="true" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

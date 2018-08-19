@@ -73,7 +73,7 @@ class RegisterController extends Controller
       //dd($data['rol']);
       $user = new User();
       $user->fill($data);
-      $user->password = md5($data['password']);
+      $user->password = bcrypt($data['password']);
       $user->save();
       $user->roles()->attach($data['rol']);
 
